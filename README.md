@@ -1,4 +1,5 @@
-# HydroATLAS_to_CAMELS
+# featureXtractor
+
 This repository store Jupyter notebook which allow to obtain HydroATLAS dataset values for user defined basin
 
 To work with this script you require shapefile with watersheds of your interest
